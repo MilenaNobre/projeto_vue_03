@@ -1,4 +1,4 @@
-# <a href="https://www.udemy.com/course/vue-js-completo/" > Projeto 3 </a> do Curso de Vue.js 2 - O guia completo
+# Projeto 3: The Stock Trader - <a href="https://www.udemy.com/course/vue-js-completo/" > Curso de Vue.js 2 - O guia completo </a>
 <p> O Objetivo do projeto era implementar umaa simples venda/compra de ações e para isso foi utilizado vuex, vue router, vuetify, axios e firebase. </p>
 
 ## Project setup
